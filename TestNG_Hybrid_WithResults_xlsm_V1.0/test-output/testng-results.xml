@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20829" started-at="2017-05-23T10:54:54Z" finished-at="2017-05-23T10:55:15Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="20829" started-at="2017-05-23T10:54:54Z" finished-at="2017-05-23T10:55:15Z">
+      <class name="com.tm.hrm.set1.TestScriptDefinitions.M1_FirstSet">
+        <test-method status="PASS" signature="TC101_AddEmergencyContactsAndVerify(java.lang.String)[pri:5, instance:com.tm.hrm.set1.TestScriptDefinitions.M1_FirstSet@10959ece]" name="TC101_AddEmergencyContactsAndVerify" duration-ms="20689" started-at="2017-05-23T16:24:54Z" description="Add Emergency details and verify" finished-at="2017-05-23T16:25:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC101_AddEmergencyContactsAndVerify -->
+        <test-method status="PASS" signature="TC102_AddDependenciesAndVerify(java.lang.String)[pri:10, instance:com.tm.hrm.set1.TestScriptDefinitions.M1_FirstSet@10959ece]" name="TC102_AddDependenciesAndVerify" duration-ms="3" started-at="2017-05-23T16:25:15Z" description="Add Dependants details and verify" finished-at="2017-05-23T16:25:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC102_AddDependenciesAndVerify -->
+        <test-method status="PASS" signature="TC103_AddImmigrationDetailsAndVerify(java.lang.String)[pri:15, instance:com.tm.hrm.set1.TestScriptDefinitions.M1_FirstSet@10959ece]" name="TC103_AddImmigrationDetailsAndVerify" duration-ms="1" started-at="2017-05-23T16:25:15Z" description="Add Immigration details and verify" finished-at="2017-05-23T16:25:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC103_AddImmigrationDetailsAndVerify -->
+        <test-method status="PASS" signature="TC104_Immigration_AddAttachment(java.lang.String)[pri:20, instance:com.tm.hrm.set1.TestScriptDefinitions.M1_FirstSet@10959ece]" name="TC104_Immigration_AddAttachment" duration-ms="2" started-at="2017-05-23T16:25:15Z" description="Add Related Attachments In Immigration Section" finished-at="2017-05-23T16:25:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC104_Immigration_AddAttachment -->
+        <test-method status="PASS" signature="TC105_Immigration_VerifyErrorMessage(java.lang.String)[pri:25, instance:com.tm.hrm.set1.TestScriptDefinitions.M1_FirstSet@10959ece]" name="TC105_Immigration_VerifyErrorMessage" duration-ms="2" started-at="2017-05-23T16:25:15Z" description="Verify Error Messages In Immigration Section" finished-at="2017-05-23T16:25:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC105_Immigration_VerifyErrorMessage -->
+      </class> <!-- com.tm.hrm.set1.TestScriptDefinitions.M1_FirstSet -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

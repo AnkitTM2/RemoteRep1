@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Jars/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/extentreports-java-2.40.1.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/poi-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/poi-excelant-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/poi-ooxml-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/poi-ooxml-schemas-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/poi-scratchpad-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/reflections-0.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
